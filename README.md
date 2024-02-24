@@ -1,4 +1,6 @@
-# Hola, me llamo Juan Guillermo 👋
+<div align="center">
+<h1 align="center">Hola, me llamo Juan Guillermo 👋</h1>
+</div>
 
 <!--
 **Juangui28/Juangui28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
