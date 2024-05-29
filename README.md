@@ -6,7 +6,7 @@
 
 ## Sobre mí
 
-- 🔭 Actualmente trabajando en "Campus GYM".
+- 🔭 Actualmente trabajando en un sistema de gestión de clientes para gimnasios.
 - 🌱 Aprendiendo y mejorando mis habilidades en el Frontend y Backend .
 - 👯 Buscando colaborar en proyectos interesantes de código abierto.
 - 📫 Puedes contactarme a mi correo jugulome28@gmail.com. <!-- - 💬 Pregúntame sobre [temas que dominas o te interesan]. -->
