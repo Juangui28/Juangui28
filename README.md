@@ -6,7 +6,7 @@
 
 ## Sobre mí
 
-- 🔭 Actualmente trabajando en [tu proyecto actual].
+- 🔭 Actualmente trabajando en "Campus GYM".
 - 🌱 Aprendiendo y mejorando mis habilidades en el Frontend y Backend .
 - 👯 Buscando colaborar en proyectos interesantes de código abierto.
 - 📫 Puedes contactarme a mi correo jugulome28@gmail.com. <!-- - 💬 Pregúntame sobre [temas que dominas o te interesan]. -->
