@@ -25,8 +25,8 @@
 
 ## Mis Proyectos
 
-### [Proyecto 1: Retos de programación](https://github.com/Juangui28/Retos_de_programacion)
-El proyecto "Retos de programación" consiste en una colección de desafíos y ejercicios diseñados para mejorar las habilidades de programación. Cada reto presenta un problema específico que debe resolverse mediante el desarrollo de algoritmos y la implementación de soluciones eficientes. La tecnología utilizada en este proyecto es Python.
+### [Proyecto 1: Retos de programación](https://github.com/Juangui28/Ejercicios_de_logica)
+El proyecto "Ejercicios de logica" consiste en una colección de desafíos y ejercicios diseñados para mejorar las habilidades de programación. Cada reto presenta un problema específico que debe resolverse mediante el desarrollo de algoritmos y la implementación de soluciones eficientes. La tecnología utilizada en este proyecto es Python.
 
 <!--### [Proyecto 2: Nombre del Proyecto](URL del Proyecto)
 Descripción breve del proyecto, lo que hace y las tecnologías que utilizaste.
